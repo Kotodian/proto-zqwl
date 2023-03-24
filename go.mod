@@ -1,3 +1,3 @@
-module github.com/Kotodian/proto-zqwl
+module github.com/Kotodian/protocol-zqwl
 
 go 1.20
